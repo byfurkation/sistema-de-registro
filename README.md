@@ -1,4 +1,4 @@
-<h1> Sistema de Registro</h1>
+<h1 align: "left"> Sistema de Registro</h1>
 
--Estado del proyecto: en construcción.
+🚧-Estado del proyecto: en construcción 🚧
 
